@@ -1,4 +1,2 @@
 # messin
-just to mess around with
-
-yo yoy oy yooyyoyooyoo bro
+This is a repository for some python practice code
